@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A generalist by nature. Software Engineer by trade. I love family and friends. I enjoy reading, cooking, exercise, games, fishing, camping, and the outdoors.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+And I tell dad jokes.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+For questions, comments, concerns, business inquiries, freelance opportunities, custom requests, or just saying hi, feel free to reach out!
+
+[contact@dereklpeck.com](mailto:contact@dereklpeck.com)
