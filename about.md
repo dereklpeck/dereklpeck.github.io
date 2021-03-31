@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A generalist by nature. Software Engineer by trade. I love family and friends. I enjoy reading, cooking, exercise, games, fishing, camping, and the outdoors.
+A generalist by nature. Software Engineer and consultant by trade. I love family and friends. I enjoy reading, cooking, exercise, games, fishing, camping, and the outdoors.
 
 And I tell dad jokes.
 
