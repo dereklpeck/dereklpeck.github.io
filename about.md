@@ -10,6 +10,6 @@ And I tell dad jokes.
 
 ### Contact me
 
-For questions, comments, concerns, business inquiries, freelance opportunities, custom requests, or just saying hi, feel free to reach out!
+For questions or concerns, comments or criticisms, business inquiries, freelance opportunities, custom requests, or just saying hi, feel free to reach out!
 
 [contact@dereklpeck.com](mailto:contact@dereklpeck.com)
